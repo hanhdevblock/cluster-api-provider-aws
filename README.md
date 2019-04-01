@@ -1,6 +1,6 @@
 # Kubernetes Cluster API Provider AWS
 
-[![Go Report Card](https://goreportcard.com/badge/sigs.k8s.io/cluster-api-provider-aws)](https://goreportcard.com/report/sigs.k8s.io/cluster-api-provider-aws)
+[![Branches Coverage](https://s3-us-west-2.amazonaws.com/devblockjenkins/keeper/master/lastest/badge-branches.svg)](https://goreportcard.com/report/sigs.k8s.io/cluster-api-provider-aws)
 
 <img src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png"  width="100"><a href="https://aws.amazon.com/opensource/"><img hspace="90px" src="https://d0.awsstatic.com/logos/powered-by-aws.png" alt="Powered by AWS Cloud Computing"></a>
 
