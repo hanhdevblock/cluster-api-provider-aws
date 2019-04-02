@@ -1,8 +1,10 @@
 # Kubernetes Cluster API Provider AWS
 
-[![Branches Coverage](https://s3-us-west-2.amazonaws.com/devblockjenkins/keeper/master/lastest/badge-branches.svg)](https://goreportcard.com/report/sigs.k8s.io/cluster-api-provider-aws)
+[![Branches Coverage](https://s3-us-west-2.amazonaws.com/devblockjenkins/keeper/master/lastest/badge-branches.svg)](https://goreportcard.com/report/sigs.k8s.io/cluster-api-provider-aws) 
 
-<img src="https://s3-us-west-2.amazonaws.com/devblockjenkins/keeper/master/lastest/badge-branches.svg"  width="100"><a href="https://aws.amazon.com/opensource/"><img hspace="90px" src="https://d0.awsstatic.com/logos/powered-by-aws.png" alt="Powered by AWS Cloud Computing"></a>
+[![Branches Coverage](https://s3-us-west-2.amazonaws.com/devblockjenkins/keeper/master/lastest/badge-functions.svg)](https://goreportcard.com/report/sigs.k8s.io/cluster-api-provider-aws)
+
+<img src="https://s3-us-west-2.amazonaws.com/devblockjenkins/keeper/master/lastest/badge-lines.svg"  width="100"><a href="https://aws.amazon.com/opensource/"><img hspace="90px" src="https://d0.awsstatic.com/logos/powered-by-aws.png" alt="Powered by AWS Cloud Computing"></a>
 
 ------
 
